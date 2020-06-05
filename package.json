@@ -1,0 +1,28 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "burger logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "burgerlogger"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanessathi/burger.git"
+  },
+  "keywords": [
+    "burger",
+    "logger"
+  ],
+  "author": "vanessa pham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanessathi/burger/issues"
+  },
+  "homepage": "https://github.com/vanessathi/burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "mysql": "^2.18.1"
+  }
+}
