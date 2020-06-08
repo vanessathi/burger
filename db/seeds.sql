@@ -1,3 +1,3 @@
-INSERT INTO burgers (burger_name) VALUES ('Blue is the Warmest Cheese Burger');
-INSERT INTO burgers (burger_name) VALUES ('Four Cheddar Bout It Burger');
-INSERT INTO burgers (burger_name) VALUES ('Chorizo Your Own Adventure Burger');
+INSERT INTO burgers (burger_name, devoured) VALUES ('Cheese Burger', FALSE);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Hamburger', FALSE);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Pizza Burger', FALSE);
